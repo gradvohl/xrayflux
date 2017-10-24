@@ -33,7 +33,7 @@ addHEADER() {
  HEADER="${HEADER}\n@ATTRIBUTE xs NUMERIC"
  HEADER="${HEADER}\n@ATTRIBUTE xl NUMERIC\n"
  HEADER="${HEADER}\n@DATA"
- HEADER="${HEADER}\n%timetag,xs,sl"
+ HEADER="${HEADER}\n%timetag,xs,xl"
 
  echo -e ${HEADER} > $3
 }
