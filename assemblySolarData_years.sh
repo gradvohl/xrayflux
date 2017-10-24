@@ -4,7 +4,8 @@
 # standard output.
 #
 # Author: Andre Leon S. Gradvol, Dr.
-# Last version: Ter 24 Out 2017 10:56:08 -02
+# Last version: Ter 24 Out 2017 13:51:33 -02
+
 
 # Function to generate the header of the ARFF file in the variable HEADER.
 addHEADER() { 
@@ -42,11 +43,11 @@ fi
 
 
 addHEADER 
+echo -e "${HEADER}"
 
 NUM=0
 
 for ARQ in ${ARGS}; do
-    echo -e "${HEADER}"
     awk -F, 'NR>26{print $1","$2","$3}' ${ARQ}
     ((NUM++))
 done
