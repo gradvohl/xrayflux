@@ -1,7 +1,7 @@
 # X-ray flux scripts
 This repository provides scripts for the assemble and maintenance of datasets on X-ray flux emitted by the Sun. The datasets on which these scripts work is available in the [National Oceanic and Atmospheric Administration - NOAA site](https://www.ngdc.noaa.gov/stp/spaceweather.html), specifically in [https://satdat-vip.ngdc.noaa.gov/sem/goes/data/new_full](https://satdat-vip.ngdc.noaa.gov/sem/goes/data/new_full).
 
-The data already processed is available on the Zenodo website with the following [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1035946.svg)](https://doi.org/10.5281/zenodo.1035946).
+The data already processed is available on the Zenodo website with the following [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1035945.svg)](https://doi.org/10.5281/zenodo.1035945).
 
 ## Motivation for collecting this data
 The main motivation for collecting this data is to use it as a time series for X-ray flux forecasting.
