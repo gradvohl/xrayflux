@@ -6,7 +6,7 @@ Year | Months  | Satellite/ observations
 2005 | 01 - 12 | g10 g12
 2006 | 01 - 12 | g12 (g10 has until 2006-06-23; g11 has data from 2006-07-12)
 2007 | 01 - 12 | g11 (g12 has many invalid data)
-2008 | 01 - 12 | g12 has many invalid data   g10 (2008-03-21 to 2008-04-30) g11 (only january 2008)
+2008 | 01 - 12 | g12 has many invalid data g10 (2008-03-21 to 2008-04-30) g11 (only january 2008)
 2009 | 01 - 12 | g10
 2010 | 01 - 12 | g15 g14 (suspect)
 2011 | 01 - 12 | g15 g08 and g10 (march to december)
@@ -15,5 +15,5 @@ Year | Months  | Satellite/ observations
 2014 | 01 - 12 | g15
 2015 | 01 - 12 | g15
 2016 | 01 - 12 | g15
-2017 | 01 - 09 | g15 (until 18 october)
+2017 | 01 - 09 | g15 (until october 18)
 
